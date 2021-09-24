@@ -14,3 +14,6 @@ Um auf den Ratenkauf hinzuweisen integriert dieses Modul die entsprechenden PayP
 
 Verwendet wird dazu Dynamic Messaging, die passenden Beträge werden also in die PayPal Popups übergeben, so dass die Raten bereits vorberechnet werden.
 In der Zen Cart Administration ist einstellbar, ab welchem und bis zu welchem Betrag die Hinweise angezeigt werden soll. Ebenso ist das Layout der Hinweise einstellbar.
+
+Dies ist kein Zahlungsmodul! 
+Die Zahlung läuft ganz normal via PayPal Express, wo der Kunde dann auf der PayPal Seite den Ratenkauf auswählt.
